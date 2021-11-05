@@ -2,7 +2,7 @@
 Aquí encontrarás ejemplos de como aplicar accesibilidad en HTML
 
 ## Estructura básica de HTML
-Por favor indica el idioma y la codificación UTF-8 al momento de establecer la base HTML sobre la cual vas a construir tu sitio web.
+Por favor indica el idioma y la codificación UTF-8 al momento de establecer la base HTML sobre la cual vas a construir tu sitio web. La codificación UTF8 ayuda a mostrar correctamente caracteres especiales como acentos y ñ en una página web.
 
 ```html
 <html lang="es">
